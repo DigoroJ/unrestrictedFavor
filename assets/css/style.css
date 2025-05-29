@@ -570,3 +570,9 @@ opacity: 0.5;
     top: 50%;
     width: 200px;
 }
+
+.logo-image img {
+    vertical-align: middle;
+    max-width: 230px;
+    padding-top: 20px;
+}
